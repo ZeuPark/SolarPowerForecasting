@@ -20,4 +20,8 @@ venv/
 models/*.joblib
 models/*.pkl
 
+# CatBoost training artifacts
+catboost_info/
+**/catboost_info/
+
 .venv
