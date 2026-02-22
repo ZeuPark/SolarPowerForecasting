@@ -1,0 +1,14 @@
+# Data
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
