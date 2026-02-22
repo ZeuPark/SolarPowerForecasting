@@ -25,3 +25,5 @@ catboost_info/
 **/catboost_info/
 
 .venv
+
+preparation.md
